@@ -24,7 +24,6 @@ public class Application {
         }
         System.out.println("Completed display of country codes.");
 
-
         try {
             Country country = locationService.getCountry("US");
             System.out.println("Completed country lookup for County code:  " + country.getCode() + "  Country name:  " + country.getName());
@@ -44,5 +43,6 @@ public class Application {
             ex.printStackTrace();
         }
 
+        System.out.println("Finished running console application.");
     }
 }
