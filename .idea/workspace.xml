@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="510599ed-550d-423a-99ed-57c1583ecea3" name="Default" comment="">
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/ventyx-sample-application/src/test/java/com/ventyx/sample/application/ApplicationTest.java" afterPath="$PROJECT_DIR$/ventyx-sample-application/src/test/java/com/ventyx/sample/application/ApplicationTest.java" />
     </list>
     <ignored path="ventyx-sample.iws" />
     <ignored path=".idea/workspace.xml" />
@@ -16,7 +16,8 @@
     <file path="/LocationServiceTest.java" changelist="510599ed-550d-423a-99ed-57c1583ecea3" time="1360088400922" ignored="false" />
     <file path="/Dummy.txt" changelist="510599ed-550d-423a-99ed-57c1583ecea3" time="1360169456502" ignored="false" />
     <file path="/a.dummy" changelist="510599ed-550d-423a-99ed-57c1583ecea3" time="1360088267128" ignored="false" />
-    <file path="/ApplicationTest.java" changelist="510599ed-550d-423a-99ed-57c1583ecea3" time="1360092494579" ignored="false" />
+    <file path="/ApplicationTest.java" changelist="510599ed-550d-423a-99ed-57c1583ecea3" time="1360169877584" ignored="false" />
+    <file path="$PROJECT_DIR$/.idea/workspace.xml" changelist="510599ed-550d-423a-99ed-57c1583ecea3" time="1360169893398" ignored="false" />
     <option name="TRACKING_ENABLED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -146,19 +147,19 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="Application.java" pinned="false" current="true" current-in-tab="true">
+      <file leaf-file-name="Application.java" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/ventyx-sample-application/src/main/java/com/ventyx/sample/application/Application.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="43" column="54" selection-start="1778" selection-end="1778" vertical-scroll-proportion="0.6375969">
+            <state line="43" column="54" selection-start="1778" selection-end="1778" vertical-scroll-proportion="0.0">
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="ApplicationTest.java" pinned="false" current="false" current-in-tab="false">
+      <file leaf-file-name="ApplicationTest.java" pinned="false" current="true" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/ventyx-sample-application/src/test/java/com/ventyx/sample/application/ApplicationTest.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="20" column="49" selection-start="849" selection-end="849" vertical-scroll-proportion="0.0">
+            <state line="84" column="59" selection-start="3222" selection-end="3222" vertical-scroll-proportion="0.60465115">
               <folding>
                 <element signature="imports" expanded="true" />
               </folding>
@@ -215,8 +216,8 @@
         <option value="$PROJECT_DIR$/ventyx-sample-service/src/test/java/com/ventyx/sample/application/service/LocationServiceTest.java" />
         <option value="$PROJECT_DIR$/pom.xml" />
         <option value="$PROJECT_DIR$/ventyx-sample-application/pom.xml" />
-        <option value="$PROJECT_DIR$/ventyx-sample-application/src/test/java/com/ventyx/sample/application/ApplicationTest.java" />
         <option value="$PROJECT_DIR$/ventyx-sample-application/src/main/java/com/ventyx/sample/application/Application.java" />
+        <option value="$PROJECT_DIR$/ventyx-sample-application/src/test/java/com/ventyx/sample/application/ApplicationTest.java" />
       </list>
     </option>
   </component>
@@ -323,6 +324,104 @@
             <PATH_ELEMENT>
               <option name="myItemId" value="ventyx-sample" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="ventyx-sample" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="ventyx-sample" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="ventyx-sample" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="ventyx-sample" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="ventyx-sample-application" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="ventyx-sample" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="ventyx-sample" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="ventyx-sample-application" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="src" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="test" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="ventyx-sample" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="ventyx-sample" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="ventyx-sample-application" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="src" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="test" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="java" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="application" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="ventyx-sample" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="ventyx-sample" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="ventyx-sample-application" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="src" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="main" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
           </PATH>
         </subPane>
@@ -773,15 +872,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/ventyx-sample-application/src/test/java/com/ventyx/sample/application/ApplicationTest.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="20" column="49" selection-start="849" selection-end="849" vertical-scroll-proportion="0.0">
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/../redmine-plugin-master/src/main/java/hudson/plugins/redmine/VersionUtil.java">
       <provider selected="true" editor-type-id="text-editor">
         <state line="17" column="26" selection-start="484" selection-end="484" vertical-scroll-proportion="0.0">
@@ -800,8 +890,17 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/ventyx-sample-application/src/main/java/com/ventyx/sample/application/Application.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="43" column="54" selection-start="1778" selection-end="1778" vertical-scroll-proportion="0.6375969">
+        <state line="43" column="54" selection-start="1778" selection-end="1778" vertical-scroll-proportion="0.0">
           <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ventyx-sample-application/src/test/java/com/ventyx/sample/application/ApplicationTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="84" column="59" selection-start="3222" selection-end="3222" vertical-scroll-proportion="0.60465115">
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
