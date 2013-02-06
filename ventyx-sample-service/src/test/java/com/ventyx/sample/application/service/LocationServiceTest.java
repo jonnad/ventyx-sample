@@ -3,11 +3,11 @@ package com.ventyx.sample.application.service;
 import com.ventyx.sample.application.api.model.Country;
 import com.ventyx.sample.application.api.model.Language;
 import com.ventyx.sample.application.exception.LocationServiceException;
-import org.junit.Test;
+import org.testng.annotations.Test;
 
 import java.util.List;
 
-import static org.junit.Assert.*;
+import static org.testng.Assert.*;
 
 /**
  *

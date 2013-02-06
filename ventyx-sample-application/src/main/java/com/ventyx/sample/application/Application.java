@@ -41,6 +41,7 @@ public class Application {
 
         } catch (LocationServiceException ex) {
             ex.printStackTrace();
+            System.out.println("Something bad happened.");
         }
 
         System.out.println("Finished running console application.");
