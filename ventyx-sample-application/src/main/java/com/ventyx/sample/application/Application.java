@@ -13,12 +13,13 @@ import java.util.List;
 public class Application {
 
     private static LocationService locationService = new LocationService();
-    
-    public static void main (String[] args) {
+
+    public void displayLocationInformation() {
 
         List<Country> countries = locationService.getCountries();
 
         System.out.println("Starting display of country codes.");
+
         for (Country country : countries) {
             System.out.println("County code:  " + country.getCode() + "  Country name:  " + country.getName());
         }
@@ -45,5 +46,15 @@ public class Application {
         }
 
         System.out.println("Finished running console application.");
+
+
     }
+
+    public static void main (String[] args) {
+
+        Application application = new Application();
+        application.displayLocationInformation();
+
+    }
+
 }
