@@ -5,6 +5,7 @@ import com.ventyx.sample.application.api.model.Language;
 import com.ventyx.sample.application.exception.LocationServiceException;
 
 import java.util.ArrayList;
+import java.util.Collection;
 import java.util.List;
 import java.util.Locale;
 
@@ -113,12 +114,15 @@ public class LocationService {
     }
 
 
-    public String getLanguageInformation(String languageCode) throws Exception{
+    public String getLanguageInformation(String languageCode, Collection c) throws Exception{
 
         //VIOLATION
         if ("AA" != "BB") {
             return "English";
         }
+
+        //VIOLATION
+        String[] invalid = (String[]) c.toArray();
 
         //VIOLATION
         try {
@@ -128,6 +132,7 @@ public class LocationService {
         } finally {
             throw new Exception("Should not be here...");
         }
+
 
     }
 }
