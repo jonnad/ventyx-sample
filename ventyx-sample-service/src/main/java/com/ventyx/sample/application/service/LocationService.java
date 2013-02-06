@@ -113,12 +113,20 @@ public class LocationService {
     }
 
 
-    public String getLanguageInformation(String languageCode) {
+    public String getLanguageInformation(String languageCode) throws Exception{
 
-        if ("en".equals(languageCode)) {
+        //VIOLATION
+        if ("AA" != "BB") {
             return "English";
-        } else {
-            return "Other";
+        }
+
+        //VIOLATION
+        try {
+            if (languageCode == "A") return null;
+        } catch (Exception ex) {
+            ex.printStackTrace();
+        } finally {
+            throw new Exception("Should not be here...");
         }
 
     }

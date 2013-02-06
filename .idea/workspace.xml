@@ -3,14 +3,13 @@
   <component name="ChangeListManager">
     <list default="true" id="510599ed-550d-423a-99ed-57c1583ecea3" name="Default" comment="">
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/ventyx-sample-service/src/main/java/com/ventyx/sample/application/service/LocationService.java" afterPath="$PROJECT_DIR$/ventyx-sample-service/src/main/java/com/ventyx/sample/application/service/LocationService.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
     </list>
     <ignored path="ventyx-sample.iws" />
     <ignored path=".idea/workspace.xml" />
     <file path="/Application.java" changelist="510599ed-550d-423a-99ed-57c1583ecea3" time="1360177529593" ignored="false" />
     <file path="/State.java" changelist="510599ed-550d-423a-99ed-57c1583ecea3" time="1359737045020" ignored="false" />
     <file path="/Country.java" changelist="510599ed-550d-423a-99ed-57c1583ecea3" time="1359737023425" ignored="false" />
-    <file path="/LocationService.java" changelist="510599ed-550d-423a-99ed-57c1583ecea3" time="1360179035942" ignored="false" />
+    <file path="/LocationService.java" changelist="510599ed-550d-423a-99ed-57c1583ecea3" time="1360180349078" ignored="false" />
     <file path="/pom.xml" changelist="510599ed-550d-423a-99ed-57c1583ecea3" time="1360092325721" ignored="false" />
     <file path="/fragment.java" changelist="510599ed-550d-423a-99ed-57c1583ecea3" time="1360170359398" ignored="false" />
     <file path="/LocationServiceException.java" changelist="510599ed-550d-423a-99ed-57c1583ecea3" time="1359740337046" ignored="false" />
@@ -18,6 +17,7 @@
     <file path="/Dummy.txt" changelist="510599ed-550d-423a-99ed-57c1583ecea3" time="1360178321847" ignored="false" />
     <file path="/a.dummy" changelist="510599ed-550d-423a-99ed-57c1583ecea3" time="1360088267128" ignored="false" />
     <file path="/ApplicationTest.java" changelist="510599ed-550d-423a-99ed-57c1583ecea3" time="1360177541281" ignored="false" />
+    <file path="$PROJECT_DIR$/.idea/workspace.xml" changelist="510599ed-550d-423a-99ed-57c1583ecea3" time="1360180143073" ignored="false" />
     <option name="TRACKING_ENABLED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -175,7 +175,7 @@
       <file leaf-file-name="LocationService.java" pinned="false" current="true" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/ventyx-sample-service/src/main/java/com/ventyx/sample/application/service/LocationService.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="112" column="29" selection-start="3120" selection-end="3120" vertical-scroll-proportion="0.6167472">
+            <state line="122" column="0" selection-start="3293" selection-end="3293" vertical-scroll-proportion="0.64412236">
               <folding />
             </state>
           </provider>
@@ -1081,7 +1081,7 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/ventyx-sample-service/src/main/java/com/ventyx/sample/application/service/LocationService.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="112" column="29" selection-start="3120" selection-end="3120" vertical-scroll-proportion="0.6167472">
+        <state line="122" column="0" selection-start="3293" selection-end="3293" vertical-scroll-proportion="0.64412236">
           <folding />
         </state>
       </provider>
