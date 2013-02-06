@@ -112,4 +112,14 @@ public class LocationService {
 
     }
 
+
+    public String getLanguageInformation(String languageCode) {
+
+        if ("en".equals(languageCode)) {
+            return "English";
+        } else {
+            return "Other";
+        }
+
+    }
 }
