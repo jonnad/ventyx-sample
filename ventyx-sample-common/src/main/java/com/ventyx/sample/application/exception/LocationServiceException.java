@@ -6,6 +6,11 @@ package com.ventyx.sample.application.exception;
 
 public class LocationServiceException extends Exception {
 
+    /**
+     * Default constructor
+     *
+     * @param message
+     */
     public LocationServiceException(String message) {
         super(message);
     }
