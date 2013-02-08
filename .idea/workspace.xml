@@ -15,7 +15,7 @@
     <file path="/fragment.java" changelist="510599ed-550d-423a-99ed-57c1583ecea3" time="1360170359398" ignored="false" />
     <file path="/LocationServiceException.java" changelist="510599ed-550d-423a-99ed-57c1583ecea3" time="1360268007194" ignored="false" />
     <file path="/LocationServiceTest.java" changelist="510599ed-550d-423a-99ed-57c1583ecea3" time="1360341142609" ignored="false" />
-    <file path="/Dummy.txt" changelist="510599ed-550d-423a-99ed-57c1583ecea3" time="1360268052520" ignored="false" />
+    <file path="/Dummy.txt" changelist="510599ed-550d-423a-99ed-57c1583ecea3" time="1360341273898" ignored="false" />
     <file path="/a.dummy" changelist="510599ed-550d-423a-99ed-57c1583ecea3" time="1360338783689" ignored="false" />
     <file path="/ApplicationTest.java" changelist="510599ed-550d-423a-99ed-57c1583ecea3" time="1360177541281" ignored="false" />
     <file path="$PROJECT_DIR$/../security-service/security-service-impl/src/main/java/com/ventyx/security/service/TokenService.java" changelist="510599ed-550d-423a-99ed-57c1583ecea3" time="1360251262408" ignored="false" />
@@ -28,7 +28,7 @@
   </component>
   <component name="ChangesViewManager" flattened_view="true" show_ignored="false" />
   <component name="CoverageDataManager">
-    <SUITE FILE_PATH="coverage/ventyx-sample$LocationServiceTest.coverage" NAME="LocationServiceTest Coverage Results" MODIFIED="1360341162890" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false">
+    <SUITE FILE_PATH="coverage/ventyx-sample$LocationServiceTest.coverage" NAME="LocationServiceTest Coverage Results" MODIFIED="1360352135958" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false">
       <FILTER>com.ventyx.sample.application.service.*</FILTER>
     </SUITE>
     <SUITE FILE_PATH="coverage/ventyx-sample$Application.coverage" NAME="Application Coverage Results" MODIFIED="1360177570556" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false">
@@ -43,7 +43,7 @@
   </component>
   <component name="DebuggerManager">
     <line_breakpoints default_suspend_policy="SuspendAll" default_condition_enabled="true">
-      <breakpoint url="file://$PROJECT_DIR$/ventyx-sample-service/src/test/java/com/ventyx/sample/application/service/LocationServiceTest.java" line="82" class="com.ventyx.sample.application.service.LocationServiceTest" package="com.ventyx.sample.application.service">
+      <breakpoint url="file://$PROJECT_DIR$/ventyx-sample-service/src/test/java/com/ventyx/sample/application/service/LocationServiceTest.java" line="80" class="com.ventyx.sample.application.service.LocationServiceTest" package="com.ventyx.sample.application.service">
         <option name="ENABLED" value="true" />
         <option name="LOG_ENABLED" value="false" />
         <option name="LOG_EXPRESSION_ENABLED" value="false" />
@@ -116,19 +116,19 @@
   </component>
   <component name="FileEditorManager">
     <leaf>
-      <file leaf-file-name="LocationService.java" pinned="false" current="true" current-in-tab="true">
+      <file leaf-file-name="LocationService.java" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/ventyx-sample-service/src/main/java/com/ventyx/sample/application/service/LocationService.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="99" column="112" selection-start="2749" selection-end="2749" vertical-scroll-proportion="0.67563736">
+            <state line="54" column="20" selection-start="1439" selection-end="1439" vertical-scroll-proportion="0.0">
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="LocationServiceTest.java" pinned="false" current="false" current-in-tab="false">
+      <file leaf-file-name="LocationServiceTest.java" pinned="false" current="true" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/ventyx-sample-service/src/test/java/com/ventyx/sample/application/service/LocationServiceTest.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="104" column="0" selection-start="2959" selection-end="2959" vertical-scroll-proportion="0.0">
+            <state line="59" column="8" selection-start="1598" selection-end="1598" vertical-scroll-proportion="0.60251796">
               <folding>
                 <element signature="imports" expanded="true" />
               </folding>
@@ -248,8 +248,8 @@
   <component name="ProjectFrameBounds">
     <option name="x" value="-8" />
     <option name="y" value="-8" />
-    <option name="width" value="1696" />
-    <option name="height" value="1036" />
+    <option name="width" value="1616" />
+    <option name="height" value="886" />
   </component>
   <component name="ProjectLevelVcsManager" settingsEditedManually="true">
     <OptionsSetting value="true" id="Add" />
@@ -726,11 +726,15 @@
       <created>1360268056500</created>
       <updated>1360268056500</updated>
     </task>
-    <option name="localTasksCounter" value="6" />
+    <task id="LOCAL-00006" summary="refs 23524&#10;&#10;Removed test cases">
+      <created>1360341283318</created>
+      <updated>1360341283318</updated>
+    </task>
+    <option name="localTasksCounter" value="7" />
     <servers />
   </component>
   <component name="ToolWindowManager">
-    <frame x="-8" y="-8" width="1696" height="1036" extended-state="6" />
+    <frame x="-8" y="-8" width="1616" height="886" extended-state="6" />
     <editor active="false" />
     <layout>
       <window_info id="Changes" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
@@ -746,14 +750,14 @@
       <window_info id="IDEtalk" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.329849" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
-      <window_info id="Coverage" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.17013463" sideWeight="0.1368301" order="3" side_tool="true" content_ui="tabs" />
+      <window_info id="Coverage" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.17889318" sideWeight="0.15818432" order="3" side_tool="true" content_ui="tabs" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="1" side_tool="true" content_ui="tabs" />
-      <window_info id="Maven Projects" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.17013463" sideWeight="0.68985176" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Maven Projects" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.17889318" sideWeight="0.6327373" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="SLIDING" type="SLIDING" visible="false" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Application Servers" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.249694" sideWeight="0.8346636" order="0" side_tool="false" content_ui="combo" />
-      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.16533637" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.26254827" sideWeight="0.8005502" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.19944979" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
       <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
@@ -798,7 +802,7 @@
     <option name="MAXIMUM_HISTORY_ROWS" value="1000" />
     <option name="FORCE_NON_EMPTY_COMMENT" value="false" />
     <option name="CLEAR_INITIAL_COMMIT_MESSAGE" value="false" />
-    <option name="LAST_COMMIT_MESSAGE" value="refs 23524&#10;references 23524&#10;IssueID 23524&#10;fixes 23524&#10;closes 23524&#10;#23524&#10;refs 23524,23524,23524&#10;ref 23524&#9; &#10;Added comment block" />
+    <option name="LAST_COMMIT_MESSAGE" value="refs 23524&#10;&#10;Removed test cases" />
     <option name="MAKE_NEW_CHANGELIST_ACTIVE" value="false" />
     <option name="OPTIMIZE_IMPORTS_BEFORE_PROJECT_COMMIT" value="false" />
     <option name="CHECK_FILES_UP_TO_DATE_BEFORE_COMMIT" value="false" />
@@ -816,6 +820,7 @@
     <MESSAGE value="ref 23524&#9; Added messaging to console application" />
     <MESSAGE value="ref 23524&#9; &#10;Added additional tests and refactored" />
     <MESSAGE value="refs 23524&#10;references 23524&#10;IssueID 23524&#10;fixes 23524&#10;closes 23524&#10;#23524&#10;refs 23524,23524,23524&#10;ref 23524&#9; &#10;Added comment block" />
+    <MESSAGE value="refs 23524&#10;&#10;Removed test cases" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager />
@@ -918,19 +923,19 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/ventyx-sample-service/src/test/java/com/ventyx/sample/application/service/LocationServiceTest.java">
+    <entry file="file://$PROJECT_DIR$/ventyx-sample-service/src/main/java/com/ventyx/sample/application/service/LocationService.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="104" column="0" selection-start="2959" selection-end="2959" vertical-scroll-proportion="0.0">
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
+        <state line="54" column="20" selection-start="1439" selection-end="1439" vertical-scroll-proportion="0.0">
+          <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/ventyx-sample-service/src/main/java/com/ventyx/sample/application/service/LocationService.java">
+    <entry file="file://$PROJECT_DIR$/ventyx-sample-service/src/test/java/com/ventyx/sample/application/service/LocationServiceTest.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="99" column="112" selection-start="2749" selection-end="2749" vertical-scroll-proportion="0.67563736">
-          <folding />
+        <state line="59" column="8" selection-start="1598" selection-end="1598" vertical-scroll-proportion="0.60251796">
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
